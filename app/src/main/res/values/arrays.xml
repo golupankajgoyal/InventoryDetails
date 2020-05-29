@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- These are the options displayed in the supplier drop-down Spinner -->
+    <string-array name="array_dealer_options">
+        <item>Tata</item>
+        <item>Haldiram</item>
+        <item>Local</item>
+    </string-array>
+</resources>
